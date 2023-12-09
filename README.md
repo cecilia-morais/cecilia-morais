@@ -40,6 +40,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cecilia-morais/cecilia-morais/output/snake.svg" alt="Snake animation" />
 
 ###
