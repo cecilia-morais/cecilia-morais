@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Maria Cecilia, and I'm from São João do Sabugi - RN, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Maria Cecilia, and I'm from São João do Sabugi - RN, Brazil. <br> I am currently studying information systems at UFRN.</h2>
 
 ###
 
